@@ -9,7 +9,7 @@ public class Ejercicio5 {
         int num3 = teclado.nextInt();
         int num4 = teclado.nextInt();
 
-        double media = ((num1 + num2 + num3 + num4)/4.0);
+        double media = ((num1 + num2 + num3 + num4)/4.0 );
 
         System.out.println("La media es " + media);
 
