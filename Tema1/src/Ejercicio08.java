@@ -7,13 +7,11 @@ public class Ejercicio08 {
         char respuestas;
         int menor = 0;
 
-        do{
-            System.out.println("Introdice un numero");
-            nums = teclado.nextInt();
+   //        System.out.println("Introdice un numero");
+   //         nums = teclado.nextInt();
 
-            if ()
-        }
-        System.out.println("Introduce un conjunto de numeros");
+  //      }
+     //   System.out.println("Introduce un conjunto de numeros");
 
 
     }

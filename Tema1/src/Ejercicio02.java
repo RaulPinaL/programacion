@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Ejercicio2 {
+public class Ejercicio02 {
     static void main(String[] args) {
         Scanner teclado = new Scanner(System.in);
         System.out.print("Introduzca un numero");
