@@ -13,7 +13,7 @@ public class EjercicioRectangulo {
 
         for (int i = 0; i < altura; i++) {
             for (int j = 0; j < anchura; j++) {
-                System.out.print("*  ");
+                System.out.print("*  ");    -   ººººººººººººººººººººººººººººººººººººººººººººººººººººººººº
 
             }
             System.out.println();
